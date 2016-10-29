@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="mspxamarin/App.cs" Line="1" Column="1" />
+      <File FileName="mspxamarin/Constants.cs" Line="12" Column="1" />
+      <File FileName="mspxamarin/TodoItem.cs" Line="1" Column="1" />
+      <File FileName="mspxamarin/packages.config" Line="1" Column="1" />
+      <File FileName="mspxamarin/TodoItemManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mspxamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BB67286F-A355-4553-B633-DCF3CADC04B0" />
+</Properties>
